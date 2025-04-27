@@ -1,0 +1,16 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Ignorar archivos de subida de usuarios
+/media/
+
+# Ignorar archivos de entorno (por si usas .env en el futuro)
+.env
+
